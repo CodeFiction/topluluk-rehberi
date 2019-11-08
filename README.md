@@ -27,6 +27,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | GDG (Google Developer Groups) | [GDG (Google Developer Groups)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/GDG) | |
 | Hackathon Turkiye | [Hackathon Turkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/HackathonTurkiye) |  |
 | Hacktrick | [Hacktrick](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Hacktrick) | |
+| HackUP | [HackUP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/HackUP) | |
 | inzva | [inzva](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/inzva) | |
 | Istanbul Coders | [Istanbul Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulCoders) | |
 | Istanbul DevOps Turkey | [Istanbul DevOps Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulDevOpsTurkey) | |
@@ -39,10 +40,12 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Kodluyoruz | [Kodluyoruz](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Kodluyoruz) | |
 | KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KOUEEEComputerSociety) |  |
 | laravel.istanbul | [laravel.istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/laravel.istanbul) |  |
+| Mercode | [Mercode](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Mercode) |[Telegram](https://t.me/mercode) [Website](https://mercode.org) |
 | Mobile Monday Ankara | [Mobile Monday Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MobileMondayAnkara) |  |
 | Mustafa Akgül Özgür Yazılım Yaz Kampı | [Mustafa Akgül Özgür Yazılım Yaz Kampı](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MustafaAkgulOzgurYazilimYazKampi) | |
 | NSIstanbul | [NSIstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/NSIstanbul) | | |
 | Octosec | [Octosec](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Octosec) |  |
+| Özgür Yazılım Derneği | [Özgür Yazılım Derneği](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/OzgurYazilimDernegi) |  |
 | Özgür Web Günleri | [Özgür Web Günleri](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/OzgurWebGunleri) |  |
 | PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) |  |
 | Python Istanbul | [Python Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PythonIstanbul) | |
